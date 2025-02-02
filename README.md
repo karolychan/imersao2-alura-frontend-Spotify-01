@@ -1,5 +1,5 @@
 
-## Imersão Alura Front-end - spotfy 01
+## Imersão Alura Front-end - spotify 01
 
 Este projeto foi desenvolvido durante a Imersão Alura Front-end em 2025, com o objetivo de criar um aplicativo visualmente semelhante à página do Spotify.
 
