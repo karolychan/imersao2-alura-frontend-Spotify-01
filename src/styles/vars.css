@@ -1,0 +1,9 @@
+:root {
+    /*FONT das CSS VARIABLES*/
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS  do backgrunds */ 
+    --bg-icon: #131313;
+    --bg-arrow-color : rgba(0,0,0,07);
+
+}
