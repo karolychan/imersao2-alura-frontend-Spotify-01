@@ -7,7 +7,7 @@ Este projeto foi desenvolvido durante a Imersão Alura Front-end em 2025, com o 
 
 *   Layout Responsivo: O aplicativo se adapta a diferentes tamanhos de tela, proporcionando uma experiência consistente em desktops, tablets e dispositivos móveis.
 *   Design Inspirado no Spotify: A interface foi cuidadosamente elaborada para se assemelhar visualmente à página do Spotify, utilizando elementos de design e estilos característicos.
-*   Interatividade: Elementos interativos foram adicionados para simular a navegação e a reprodução de músicas, proporcionando uma experiência mais dinâmica.
+*   Interatividade: Elementos interativos foram adicionados para simular a navegação, proporcionando uma experiência mais dinâmica.
 
 ## Tecnologias Utilizadas
 
@@ -17,7 +17,7 @@ Este projeto foi desenvolvido durante a Imersão Alura Front-end em 2025, com o 
 
 ## Como Executar
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio`
+1.  Clone este repositório: `git clone https://github.com/karolychan/imersao2-alura-frontend-Spotify-01`
 2.  Abra o arquivo `index.html` em seu navegador.
 
 ## Aprendizados
